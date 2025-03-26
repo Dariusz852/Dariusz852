@@ -23,7 +23,7 @@ programming (R and Python).
 This is the field in which I plan
 to develop my career. 
 
-:computer: I keep my hobby projects on this repository
+:computer: I keep my hobby projects on this profile.
 
 :bulb: In my work, I value openness, communication,
 and knowledge. 
