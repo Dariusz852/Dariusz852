@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi, I'm Dariusz :blush: I speak :us: :gb: and Polish :pl:
+Hi, I'm Dariusz :blush: I speak :us: :gb: 🇵🇱
 
 :snake: I specialize in data science and
 programming (R and Python).
